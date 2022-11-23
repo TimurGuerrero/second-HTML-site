@@ -1,13 +1,6 @@
-p {
-  font-size: 30px;
-  background-color: blue;
-  color: aliceblue;
-}
 .conteiner {
-  display: inline-block;
-  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: ;
   background-color: antiquewhite;
-}
-.tovar {
-  text-align: center;
 }
